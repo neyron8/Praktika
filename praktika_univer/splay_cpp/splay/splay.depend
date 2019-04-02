@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\jacko\desktop\praktika_univer\splay_cpp\splay\main.cpp
+	<iostream>
+
+1553514258 source:c:\users\jacko\desktop\praktika_univer\splay_cpp\splay\splay.cpp
+	<iostream>
+	"splay.h"
+	<cstdlib>
+
+1553514328 c:\users\jacko\desktop\praktika_univer\splay_cpp\splay\splay.h
+

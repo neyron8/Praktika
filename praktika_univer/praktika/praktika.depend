@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1552798056 source:c:\users\jacko\desktop\praktika\main.cpp
+	"bstree.h"
+
+1552797942 source:c:\users\jacko\desktop\praktika\bstree.cpp
+	"bstree.h"
+	<iostream>
+
+1552797318 c:\users\jacko\desktop\praktika\bstree.h
+
+1552803764 source:c:\users\jacko\desktop\praktika_univer\praktika\main.cpp
+	"bstree.h"
+
+1552803775 c:\users\jacko\desktop\praktika_univer\praktika\bstree.h
+
+1552804040 source:c:\users\jacko\desktop\praktika_univer\praktika\bstree.cpp
+	"bstree.h"
+	<iostream>
+
